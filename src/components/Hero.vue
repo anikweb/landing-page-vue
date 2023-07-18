@@ -4,7 +4,7 @@ const header = {
     title: "Mobile App Landing Page Template",
     subtitle: "The one and only solution for any kind of mobila app landing needs. Just change the screenshots and texts and you are good to go. ",
     heroImage: {
-        src: "../../public/images/iphonex.png",
+        src:  "images/iphonex.png",
         alt: "phone",
         class: "img-fluid"
     }
